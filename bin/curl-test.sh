@@ -1,4 +1,4 @@
-#/bin/bash -x
+#!/bin/sh -x
 
 # This didn't work with 'localhost' as the hostname. Had to switch to '127.0.0.1'.
 
